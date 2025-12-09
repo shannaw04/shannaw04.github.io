@@ -1,0 +1,10 @@
+{
+  "title": "AI Image Authenticity Classifier",
+  "blurb": "Transformer‑based classifier to detect AI‑generated images; trained with AMP, warmup LR, and label smoothing.",
+  "tags": ["Transformers", "Computer Vision", "PyTorch"],
+  "skills": ["ml", "appdev"],
+  "links": {
+    "Live": "https://shoppy.yourdomain.com",
+    "Code": "https://github.com/username/shoppy"
+  }
+}
