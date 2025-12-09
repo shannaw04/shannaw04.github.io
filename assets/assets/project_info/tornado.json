@@ -1,0 +1,10 @@
+{
+  "title": "Tornado Nowcasting Research",
+  "blurb": "Bio‑inspired models for storm‑merger tornado prediction using radar (Py‑ART), TorNet, and spiking networks.",
+  "tags": ["PyTorch", "SNN", "Py‑ART", "Radar"],
+  "skills": ["ml", "pm"],
+  "links": {
+    "Live": "https://shoppy.yourdomain.com",
+    "Code": "https://github.com/username/shoppy"
+  }
+}

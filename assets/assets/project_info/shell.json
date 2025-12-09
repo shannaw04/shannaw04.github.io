@@ -1,0 +1,10 @@
+{
+  "title": "Sandbox Shell — Systems Project",
+  "blurb": "Unix-like shell with job control, piping, and sandboxing; profiled & parallelized hot paths on HPC (SLURM).",
+  "tags": ["C", "POSIX"],
+  "skills": ["appdev"],
+  "links": {
+    "Live": "https://shoppy.yourdomain.com",
+    "Code": "https://github.com/username/shoppy"
+  }
+}
