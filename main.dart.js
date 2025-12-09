@@ -67420,7 +67420,7 @@ A.Bd.prototype={
 U(a){var s=null,r=A.jC(16),q=$.acs()
 return A.Q8(A.ob(s,new A.d_(B.bE,A.Ca(A.c([A.fs("About Me",s,s,A.adn(a)),A.ag8(),A.fs(this.c,s,s,A.ah6(a)),new A.CR(new A.P0(),s,s,s,s,s,s,!1,s,s,A.fs("Play Color Sort!",s,s,s),s)],t.F),B.av),s),B.D,s,q,s,s,s,s,s,s,s),1,B.bE,new A.ci(r,B.q))}}
 A.P0.prototype={
-$0(){A.aca(A.eC("https://shannaw04.github.io/portfolio/projects/color_sort/index.html",0,null),B.kU)},
+$0(){A.aca(A.eC("https://shannaw04.github.io/projects/color_sort/index.html",0,null),B.kU)},
 $S:0}
 A.Dj.prototype={
 U(a){var s=null,r=A.jC(16),q=$.acs()
